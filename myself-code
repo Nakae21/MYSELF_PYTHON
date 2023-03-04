@@ -1,0 +1,4 @@
+name = input()
+age = input()
+print("my name is ", $name, ".")
+print("i am ", $age, "years old.")
